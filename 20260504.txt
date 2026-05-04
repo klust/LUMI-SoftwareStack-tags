@@ -1,0 +1,7 @@
+tag 20260504: Minor corrections and additions
+
+-   Correction of a typo in the modulefiles of buildtools
+-   Improvement to the docs for QuantumESPRESSO
+-   Improved EasyConfig for Celerity 0.7.0
+
+Procedure: See the LUST Wiki
