@@ -1,0 +1,5 @@
+tag 20260505: Security vulnerability of rclone
+
+-   Update of lumio and new version of lumio-ext-tools.
+
+Procedure: See the LUST Wiki
