@@ -1,0 +1,7 @@
+tag 20261105: Documentation fixes
+
+-   Further warnings to users about the certificate issues.
+-   Some improvements to documentation.
+-   EasyConfigs for the Copenhagen course.
+
+Procedure: See the LUST Wiki
