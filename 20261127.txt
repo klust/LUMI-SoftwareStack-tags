@@ -1,0 +1,12 @@
+tag 20261127: Updated packages and preparations for the system maintenance
+
+-   craype-accel-none
+-   Removed hugepages from PLUMED and GROMACS and print a warning in the module.
+-   New package: Umpire.
+-   Updates to carm-roofline, Hypre and PETSc.
+-   26.03 changes:
+    -   Switch to EasyBuild 5.4.2
+    -   Switch to AOCC 5.2.0, so containers need to be rebuild.
+    -   Switch to a safe version of Brotli
+
+Procedure: See the LUST Wiki
